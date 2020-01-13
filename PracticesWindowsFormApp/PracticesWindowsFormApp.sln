@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingConditionalSta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWindowsFormsApp", "CalculatorWindowsFormsApp\CalculatorWindowsFormsApp.csproj", "{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShopWinFormsApp", "CoffeeShopWinFormsApp\CoffeeShopWinFormsApp.csproj", "{B434E1B7-A34B-42B3-A82A-3AB15D7A47AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B434E1B7-A34B-42B3-A82A-3AB15D7A47AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B434E1B7-A34B-42B3-A82A-3AB15D7A47AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B434E1B7-A34B-42B3-A82A-3AB15D7A47AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B434E1B7-A34B-42B3-A82A-3AB15D7A47AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
