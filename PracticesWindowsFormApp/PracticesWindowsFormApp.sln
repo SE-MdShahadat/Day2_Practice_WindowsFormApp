@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldWinFormApp", "Hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseTicketWinFormsApp", "PurchaseTicketWinFormsApp\PurchaseTicketWinFormsApp.csproj", "{415FA49C-EAE8-4732-B8AE-3E9D127F6338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalInformationWinFormApp", "PersonalInformationWinFormApp\PersonalInformationWinFormApp.csproj", "{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{415FA49C-EAE8-4732-B8AE-3E9D127F6338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{415FA49C-EAE8-4732-B8AE-3E9D127F6338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{415FA49C-EAE8-4732-B8AE-3E9D127F6338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
