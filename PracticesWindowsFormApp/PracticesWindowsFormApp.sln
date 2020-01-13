@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseTicketWinFormsApp",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalInformationWinFormApp", "PersonalInformationWinFormApp\PersonalInformationWinFormApp.csproj", "{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingConversionWinFormApp", "UnderstandingConversionWinFormApp\UnderstandingConversionWinFormApp.csproj", "{2C675346-5B00-450F-8B07-1A1251AA5317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingConditionalStatementWinFormApp", "UnderstandingConditionalStatementWinFormApp\UnderstandingConditionalStatementWinFormApp.csproj", "{90AFC677-1064-4F38-9296-0DA7CF1560DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWindowsFormsApp", "CalculatorWindowsFormsApp\CalculatorWindowsFormsApp.csproj", "{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5EEA413-23DE-4D9B-9151-9B17618EBA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C675346-5B00-450F-8B07-1A1251AA5317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C675346-5B00-450F-8B07-1A1251AA5317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C675346-5B00-450F-8B07-1A1251AA5317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C675346-5B00-450F-8B07-1A1251AA5317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90AFC677-1064-4F38-9296-0DA7CF1560DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AFC677-1064-4F38-9296-0DA7CF1560DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AFC677-1064-4F38-9296-0DA7CF1560DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AFC677-1064-4F38-9296-0DA7CF1560DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F2EFBF-4737-47D9-AE85-62EB0BE4D03E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
